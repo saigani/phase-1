@@ -1,0 +1,46 @@
+{
+"profile":{
+    "img":"image1.png",
+    "name":"pradeep",
+    "roll":"17a31a05b5",
+    "place":"kakinada",
+    "des":"student"
+},
+"career":{
+	"info":"i want to get a software job"
+},
+"education":[
+{
+	"sno":"1",
+	"degree":"B.tech",
+	"institution":"PEC",
+	"per":"85%",
+	"yop":"2023"
+},
+{
+	"sno":"2",
+	"degree":"inter",
+	"institution":"ADJC",
+	"per":"90%",
+	"yop":"2018"
+},
+{
+	"sno":"3",
+	"degree":"SSC",
+	"institution":"APS",
+	"per":"9.5",
+	"yop":"2017"
+}
+],
+"lang":[
+{
+	"lang":"english"
+},
+{
+    "lang":"hindi"
+},
+{
+    "lang":"telugu"
+}
+]
+}
